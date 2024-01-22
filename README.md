@@ -18,5 +18,5 @@
 - После запуска кода вводим нужное нам количество транзакиций - код начинает работу
 
 ## Информация
-Все вопросы задавайте в чат: [<craftim_tools> сhat](https://t.me/craftim_tools_chat)
-Подписывайся [<craftim_tools>](https://t.me/craftim_tools) чтобы не пропустить обновления и новые софты!
+- Все вопросы задавайте в чат: [<craftim_tools> сhat](https://t.me/craftim_tools_chat).
+- Подписывайся [<craftim_tools>](https://t.me/craftim_tools) чтобы не пропустить обновления и новые софты!
